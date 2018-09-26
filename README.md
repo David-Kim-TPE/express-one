@@ -1,2 +1,2 @@
 # express-one
-an express server that can upload files to server
+A simple express server that can upload files to server.
